@@ -3,7 +3,7 @@
 <p align="center">
 Desarrollador y Analista de Datos en formación, enfocado en resolver problemas complejos mediante tecnología y automatización con IA.
 </p>
----
+
  
 ### 🚀 Sobre mí
 - 🎓 Estudiante de Ingeniería en Computación - **Tecnológico de Costa Rica** (2023 – Presente)
