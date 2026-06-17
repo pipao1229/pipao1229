@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi there! I'm Luis Felipe (Pipao)</h1>
 
----
-
 ### 🚀 About Me
 Computer Engineering student at **Tecnológico de Costa Rica (TEC)**, focused on Full-Stack Development and Data Analysis powered by AI automation
 
 🌱 Currently working on: university projects and freelance systems
  
 📫 Reach me:
+
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felibenavides12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-benavides-397012367)
  
